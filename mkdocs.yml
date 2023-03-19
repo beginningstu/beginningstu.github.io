@@ -1,6 +1,6 @@
 site_name: 网站名称
 site_author: 网站作者
-site_url: 网站地址(https://GitHub用户名.github.io/项目名)
+site_url: https://github.com/beginningstu/mkdocs-study.git
 
 theme:
   name: material
@@ -53,10 +53,6 @@ repo_name: GitHub项目地址 # 右上角的名字
 
 nav:
     - "文章栏一": "index.md"
-    - "文章栏二":
-        - "文章一": "文章一的markdown路径，以docs为根目录"
-        - "文章二": "文章二的markdown路径，以docs为根目录"
-    - "文章栏三": "文章三的markdown路径，以docs为根目录"
 
 # 目录结构大致如上，它可以不断往下进行细分。
 
